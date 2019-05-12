@@ -1,5 +1,5 @@
 ## Descriptioin
-Using an attention model to build a Neural Machine Translation (NMT) model to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25").
+Using an attention model to build a Neural Machine Translation (NMT) model to translate human readable dates ("25th of April, 2019") into machine readable dates ("2019-04-25").
 
 
 ### Model
